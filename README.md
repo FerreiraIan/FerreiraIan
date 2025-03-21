@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou Ian Ferreira!
 
-<!--
-**FerreiraIan/FerreiraIan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Desenvolvimento Web com PHP** e estou aprendendo a construir aplicações web modernas. Este repositório serve como meu portfólio de projetos e exercícios do curso. 🚀
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** PHP, HTML, CSS, JavaScript
+- **Banco de Dados:** MySQL
+- **Frameworks:** Laravel, Bootstrap
+- **Ferramentas:** Git, GitHub, VS Code, XAMPP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos e Exercícios
+Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do curso:
+
+🔹 [Projeto 1]](https://github.com/FerreiraIan/FerreiraIan)) - Essa é uma breve descrição sobre mim.
+
+## 📖 O que estou aprendendo
+✔️ Fundamentos do PHP e MySQL  
+✔️ Estruturação de projetos web  
+✔️ Controle de versão com Git e GitHub  
+✔️ Desenvolvimento de aplicações dinâmicas  
+
+## 📬 Contato
+📧 Email: ianpfborges@gmail.com
+🔗 GitHub: https://github.com/FerreiraIan  
+
+---
+
+💡 "Posso fazer isso o dia todo!" - _Steve Rogers_
